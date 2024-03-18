@@ -21,4 +21,4 @@ You are required to model the price of cars with the available independent varia
 
 ### Conclusion :
 
-The following variables are significant for predicting the car prices in US Marcitympg : 1. -2_symbolingg3lsystem 5. Car Make : Buick, Porsche, Jaguar, Volvo, ,mitsubishiAudi, BMW
+The following variables are significant for predicting the car prices ket: 'citympg', '-2_symboling', 'audi', 'bmw', 'buick', 'jaguar', 'mitsubishi', 'porsche', 'volvoAudi, BMW.
